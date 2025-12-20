@@ -1,10 +1,9 @@
-
-<!-- █████╗ ██████╗ █████╗ █████╗ ███╗   ███╗    █████╗  ██████╗  █████╗ ██╗   ██╗ ██████╗ ███████╗██╗██╗     ██╗
-     ╚════██╗██╔══██╗██╔══██╗████╗ ████║   ██╔══██╗██╔════╝ ██╔══██╗██║   ██║██╔════╝ ██╔════╝██║██║     ██║
-        ██║██████╔╝███████║██╔████╔██║   ███████║██║  ███╗███████║██║   ██║██║  ███╗█████╗  ██║██║     ██║
-        ██║██╔═══╝ ██╔══██║██║╚██╔╝██║   ██╔══██║██║   ██║██╔══██║██║   ██║██║   ██║██╔══╝  ██║██║     ██║
-        ██║██║     ██║  ██║██║ ╚═╝ ██║   ██║  ██║╚██████╔╝██║  ██║╚██████╔╝╚██████╔╝███████╗██║███████╗██║
-        ╚═╝╚═╝     ╚═╝  ╚═╝╚═╝     ╚═╝   ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝ ╚═════╝  ╚═════╝ ╚══════╝╚═╝╚══════╝╚═╝ -->
+<!-- █████╗ ██████╗ █████╗ █████╗ ███╗   ███╗    █████╗  ██████╗  █████╗ ██╗   ██╗ ██████╗ ███████╗██╗██╗     ██╗ -->
+<!-- ╚════██╗██╔══██╗██╔══██╗████╗ ████║   ██╔══██╗██╔════╝ ██╔══██╗██║   ██║██╔════╝ ██╔════╝██║██║     ██║ -->
+<!--    ██║██████╔╝███████║██╔████╔██║   ███████║██║  ███╗███████║██║   ██║██║  ███╗█████╗  ██║██║     ██║ -->
+<!--    ██║██╔═══╝ ██╔══██║██║╚██╔╝██║   ██╔══██║██║   ██║██╔══██║██║   ██║██║   ██║██╔══╝  ██║██║     ██║ -->
+<!--    ██║██║     ██║  ██║██║ ╚═╝ ██║   ██║  ██║╚██████╔╝██║  ██║╚██████╔╝╚██████╔╝███████╗██║███████╗██║ -->
+<!--    ╚═╝╚═╝     ╚═╝  ╚═╝╚═╝     ╚═╝   ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝ ╚═════╝  ╚═════╝ ╚══════╝╚═╝╚══════╝╚═╝ -->
 
 <div align="center">
 
@@ -29,95 +28,67 @@
 
 ### 👨‍💻 À propos de moi
 
-```yaml
-json{
-  "developer": {
-    "name": "Issam Agoudjil",
-    "role": "Senior Backend Architect",
-    "company": "Ooredoo Algeria",
-    "location": "🇩🇿 Algeria",
-    "yearsOfExperience": "10+",
-    "availability": "Open to collaboration"
-  },
-  
-  "expertise": {
-    "architecture": [
-      "Microservices Design Patterns",
-      "Event-Driven Architecture",
-      "Domain-Driven Design (DDD)",
-      "CQRS & Event Sourcing",
-      "API Gateway Patterns"
-    ],
-    "backend": [
-      "C# / .NET Core 8",
-      "Java / Spring Boot",
-      "RESTful & GraphQL APIs",
-      "Apache Kafka & RabbitMQ",
-      "Redis Caching Strategies"
-    ],
-    "cloud": [
-      "Microsoft Azure",
-      "Docker & Kubernetes",
-      "CI/CD Pipelines",
-      "Infrastructure as Code",
-      "Service Mesh Architecture"
-    ],
-    "databases": [
-      "SQL Server (Advanced)",
-      "Oracle Database",
-      "PostgreSQL",
-      "MongoDB",
-      "Redis"
-    ],
-    "specialization": [
-      "Banking Software Systems",
-      "Payment Processing Platforms",
-      "High-Availability Systems",
-      "Security & Compliance",
-      "Performance Optimization"
-    ]
-  },
-  
-  "currentFocus": [
-    "Building scalable banking infrastructure",
-    "Designing event-driven microservices",
-    "Optimizing distributed systems",
-    "Implementing zero-trust security"
-  ],
-  
-  "philosophy": {
-    "code": "Clean code is not written by following a set of rules. It's written by carefully crafted practice.",
-    "architecture": "Simplicity is the ultimate sophistication. Every component must serve a purpose, every system must scale gracefully.",
-    "teamwork": "Great software is built by great teams. Communication is as important as code quality."
-  },
-  
-  "achievements": {
-    "scale": "Built systems handling 1M+ daily transactions",
-    "performance": "Optimized APIs achieving <100ms response time",
-    "reliability": "Architected platforms with 99.99% uptime",
-    "impact": "Led teams delivering mission-critical banking solutions"
-  },
-  
-  "contact": {
-    "email": "issam.agoudjil@outlook.com",
-    "linkedin": "linkedin.com/in/agoudjil-issam",
-    "twitter": "@agoudjilissam",
-    "preferredMethod": "LinkedIn or Email"
-  },
-  
-  "interests": [
-    "Distributed Systems",
-    "Cloud Architecture",
-    "DevOps Culture",
-    "Open Source",
-    "Tech Mentoring"
-  ],
-  
-  "quote": "The best code is no code at all. The second best is simple, readable, and maintainable code."
-}
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" align="center">
+
+#### 🧑‍💻 Identité & Expérience
+<strong>Issam Agoudjil</strong>  
+Senior Backend Architect @ Ooredoo Algeria  
+🇩🇿 Algeria • 10+ ans d'expérience  
+
+**Disponible pour collaborations** sur des projets enterprise
+
+</td>
+<td width="50%" align="center">
+
+#### 💡 Philosophie
+> "Simplicity is the ultimate sophistication.  
+> Every component must serve a purpose, every system must scale gracefully."
+
+<br>
+
+> "The best code is no code at all.  
+> The second best is simple, readable, and maintainable code."
+
+</td>
+</tr>
+</table>
+
+<br>
+
+#### 🎯 Domaines d'expertise
+
+| 🏗️ Architecture | ⚙️ Backend | ☁️ Cloud & DevOps | 🗄️ Bases de données | 🛡️ Spécialisation |
+|------------------|------------|-------------------|---------------------|-------------------|
+| Microservices<br>Event-Driven<br>DDD & CQRS<br>API Gateway | C# / .NET 8<br>Java / Spring Boot<br>GraphQL<br>Kafka & RabbitMQ | Azure<br>Docker & K8s<br>CI/CD<br>Service Mesh | SQL Server<br>Oracle<br>PostgreSQL<br>MongoDB<br>Redis | Banking Systems<br>Payment Platforms<br>High-Availability<br>Security & Compliance<br>Performance |
+
+<br>
+
+#### 🏆 Réalisations clés
+- Systèmes traitant **1M+ transactions/jour**  
+- Latence API réduite à **<100ms**  
+- Plateformes à **99.99% uptime**  
+- Architectures **Zero-Trust** conformes PCI-DSS & ISO 27001  
+- Support de **10M+ utilisateurs actifs**
+
+<br>
+
+#### 🔥 Focus actuel
+Building scalable banking infrastructure • Designing event-driven microservices • Optimizing distributed systems • Implementing zero-trust security
+
+<br>
+
+#### 📬 Contact
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/agoudjil-issam-622295292/) 
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/agoudjilissam) 
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:issam.agoudjil@outlook.com)
+
 </div>
+
 <br/>
-```
 
 ### 🎯 Compétences principales
 
@@ -160,27 +131,23 @@ mindmap
 
 <div align="center">
 
-**Backend & Architecture**
-<br/>
+**Backend & Architecture**  
 <img src="https://skillicons.dev/icons?i=cs,dotnet,java,spring,graphql,kafka,rabbitmq,redis" />
 
 <br/><br/>
 
-**Cloud & DevOps**
-<br/>
+**Cloud & DevOps**  
 <img src="https://skillicons.dev/icons?i=azure,docker,kubernetes,grafana,prometheus" />
 
 <br/><br/>
 
-**Bases de données**
-<br/>
-<img src="https://skillicons.dev/icons?i=sqlserver,postgres,mongodb" />
+**Bases de données**  
+<img src="https://skillicons.dev/icons?i=sqlserver,postgres,mongodb" />  
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/oracle.svg" width="48" height="48" alt="Oracle" />
 
 <br/><br/>
 
-**Frontend & Autres**
-<br/>
+**Frontend & Autres**  
 <img src="https://skillicons.dev/icons?i=react,typescript,tailwind,vite,python,tensorflow,opencv" />
 
 </div>
@@ -188,17 +155,19 @@ mindmap
 ### 📊 Statistiques GitHub
 
 <div align="center">
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Agoudjiliss&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=3b82f6&icon_color=3b82f6&text_color=c9d1d9&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Agoudjiliss&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=3b82f6&text_color=c9d1d9&langs_count=8"/>
+
 <br/><br/>
+
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Agoudjiliss&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=3b82f6&ring=3b82f6&fire=3b82f6&currStreakLabel=3b82f6&sideLabels=3b82f6&dates=c9d1d9" width="100%"/>
+
 <br/><br/>
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Agoudjiliss&custom_title=Contribution%20Graph&bg_color=0D1117&color=3b82f6&line=3b82f6&point=FFFFFF&area=true&hide_border=true" width="100%"/>
+
 </div>
-</td>
-</tr>
-</table>
-<br/>
 
 ### 🏗️ Philosophie d'architecture
 
