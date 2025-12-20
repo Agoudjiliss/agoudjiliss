@@ -101,7 +101,7 @@ mindmap
 **Bases de données**
 <br/>
 <img src="https://skillicons.dev/icons?i=sqlserver,postgres,mongodb" />
-<img src="https://techstack-generator.vercel.app/oracle-icon.svg" width="48" height="48" alt="Oracle" />
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/oracle.svg" width="48" height="48" alt="Oracle" />
 
 <br/><br/>
 
