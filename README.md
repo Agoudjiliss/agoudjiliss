@@ -30,19 +30,93 @@
 ### 👨‍💻 À propos de moi
 
 ```yaml
-name:     Issam Agoudjil
-role:     Senior Backend Architect
-company:  Ooredoo Algeria
-location: Algeria
-
-philosophy: |
-  "Simplicity is the ultimate sophistication in code design.
-   Every component must have a clear purpose, every system must scale gracefully."
-
-contact:
-  email:    issam.agoudjil@outlook.com
-  linkedin: https://linkedin.com/in/agoudjil-issam
-  twitter:  https://twitter.com/agoudjilissam
+json{
+  "developer": {
+    "name": "Issam Agoudjil",
+    "role": "Senior Backend Architect",
+    "company": "Ooredoo Algeria",
+    "location": "🇩🇿 Algeria",
+    "yearsOfExperience": "10+",
+    "availability": "Open to collaboration"
+  },
+  
+  "expertise": {
+    "architecture": [
+      "Microservices Design Patterns",
+      "Event-Driven Architecture",
+      "Domain-Driven Design (DDD)",
+      "CQRS & Event Sourcing",
+      "API Gateway Patterns"
+    ],
+    "backend": [
+      "C# / .NET Core 8",
+      "Java / Spring Boot",
+      "RESTful & GraphQL APIs",
+      "Apache Kafka & RabbitMQ",
+      "Redis Caching Strategies"
+    ],
+    "cloud": [
+      "Microsoft Azure",
+      "Docker & Kubernetes",
+      "CI/CD Pipelines",
+      "Infrastructure as Code",
+      "Service Mesh Architecture"
+    ],
+    "databases": [
+      "SQL Server (Advanced)",
+      "Oracle Database",
+      "PostgreSQL",
+      "MongoDB",
+      "Redis"
+    ],
+    "specialization": [
+      "Banking Software Systems",
+      "Payment Processing Platforms",
+      "High-Availability Systems",
+      "Security & Compliance",
+      "Performance Optimization"
+    ]
+  },
+  
+  "currentFocus": [
+    "Building scalable banking infrastructure",
+    "Designing event-driven microservices",
+    "Optimizing distributed systems",
+    "Implementing zero-trust security"
+  ],
+  
+  "philosophy": {
+    "code": "Clean code is not written by following a set of rules. It's written by carefully crafted practice.",
+    "architecture": "Simplicity is the ultimate sophistication. Every component must serve a purpose, every system must scale gracefully.",
+    "teamwork": "Great software is built by great teams. Communication is as important as code quality."
+  },
+  
+  "achievements": {
+    "scale": "Built systems handling 1M+ daily transactions",
+    "performance": "Optimized APIs achieving <100ms response time",
+    "reliability": "Architected platforms with 99.99% uptime",
+    "impact": "Led teams delivering mission-critical banking solutions"
+  },
+  
+  "contact": {
+    "email": "issam.agoudjil@outlook.com",
+    "linkedin": "linkedin.com/in/agoudjil-issam",
+    "twitter": "@agoudjilissam",
+    "preferredMethod": "LinkedIn or Email"
+  },
+  
+  "interests": [
+    "Distributed Systems",
+    "Cloud Architecture",
+    "DevOps Culture",
+    "Open Source",
+    "Tech Mentoring"
+  ],
+  
+  "quote": "The best code is no code at all. The second best is simple, readable, and maintainable code."
+}
+</div>
+<br/>
 ```
 
 ### 🎯 Compétences principales
