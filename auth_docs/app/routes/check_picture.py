@@ -34,6 +34,7 @@ async def check_image(
         - UNKNOWN: no match found
     """
     # Save uploaded file
+    UPLOAD_DIR.mkdir(parents=True, exist_ok=True)
     upload_path = UPLOAD_DIR / f"check_{file.filename}"
     with open(upload_path, "wb") as f:
         shutil.copyfileobj(file.file, f)

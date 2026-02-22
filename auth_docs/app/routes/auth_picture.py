@@ -42,6 +42,10 @@ async def certify_image(
     r_level = robust_level or ROBUST_LEVEL
     p_text = prompt_text if prompt_text is not None else PROMPT_TEXT
 
+    # Ensure directories exist
+    UPLOAD_DIR.mkdir(parents=True, exist_ok=True)
+    OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
+
     # Save uploaded file
     upload_path = UPLOAD_DIR / file.filename
     with open(upload_path, "wb") as f:

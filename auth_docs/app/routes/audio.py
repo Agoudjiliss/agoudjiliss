@@ -46,6 +46,8 @@ async def enroll_audio(
         )
 
     # Save uploaded file
+    UPLOAD_DIR.mkdir(parents=True, exist_ok=True)
+    OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
     upload_path = UPLOAD_DIR / filename
     with open(upload_path, "wb") as f:
         shutil.copyfileobj(file.file, f)
@@ -108,6 +110,7 @@ async def verify_audio(
     if not filename.lower().endswith(".wav"):
         raise HTTPException(status_code=400, detail="Only WAV files are supported.")
 
+    UPLOAD_DIR.mkdir(parents=True, exist_ok=True)
     upload_path = UPLOAD_DIR / f"verify_{filename}"
     with open(upload_path, "wb") as f:
         shutil.copyfileobj(file.file, f)
