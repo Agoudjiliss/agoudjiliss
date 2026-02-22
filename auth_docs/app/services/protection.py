@@ -155,8 +155,10 @@ def _qim_extract_bit(coeff: float, delta: float) -> int:
 
 
 def _adaptive_delta(band: np.ndarray, strength: float) -> float:
-    """Compute adaptive QIM delta.
-    Uses strength directly as delta, with a minimum of 4.0 to ensure
+    """Compute QIM delta for watermark embedding.
+    The ``band`` argument is accepted for API consistency and future
+    adaptive computation based on band statistics.  Currently the delta
+    is derived directly from ``strength`` with a minimum of 4.0 to ensure
     robustness against uint8 quantization noise in the spatial domain.
     """
     return max(float(strength), 4.0)

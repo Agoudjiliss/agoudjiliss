@@ -47,8 +47,10 @@ def frame_audio_payload(payload: bytes) -> bytes:
 
 
 def unframe_audio_payload(frame: bytes) -> Optional[bytes]:
-    """Unframe and verify CRC."""
-    if len(frame) < 3:
+    """Unframe and verify CRC.
+    Minimum valid frame is 2 bytes: [length=0][crc].
+    """
+    if len(frame) < 2:
         return None
     length = frame[0]
     if len(frame) < length + 2:
